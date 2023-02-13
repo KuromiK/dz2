@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\dz2\dz2\bin\Debug\dz2.exe.config
+C:\Users\hp\source\repos\dz2\dz2\bin\Debug\dz2.exe
+C:\Users\hp\source\repos\dz2\dz2\bin\Debug\dz2.pdb
+C:\Users\hp\source\repos\dz2\dz2\obj\Debug\dz2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\dz2\dz2\obj\Debug\dz2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\dz2\dz2\obj\Debug\dz2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\dz2\dz2\obj\Debug\dz2.exe
+C:\Users\hp\source\repos\dz2\dz2\obj\Debug\dz2.pdb
